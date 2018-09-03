@@ -1,12 +1,11 @@
 <h1>Privacy Policy</h1>
 This document was last updated on September 3, 2018
 
-<ol>
-  <li><h2>Acknowledgement and Acceptance of Terms</h2>
-<p>We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Policy.</p></li>
+<h2>Acknowledgement and Acceptance of Terms</h2>
+<p>We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your mobile phones interact with our application. By accessing the mobile application, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Policy.</p>
 
-<li>Participating Merchant Policies
-<p>Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.</p></li>
+<h2>Participating Merchant Policies</h2>
+<p>Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.</p>
 
 <li>Information We Collect and How We Use It
 <p>Anyone under the age of 18, may only use this site and its services in conjunction with and under the supervision of their parents or guardians, and with express permission from us. For this reason, we ask that anyone under the age of 18 should not submit any personal information through our site. This website collects certain information from and about its users three ways: directly from our Web Server logs, information provided by user, and with Cookies.</p></li>
