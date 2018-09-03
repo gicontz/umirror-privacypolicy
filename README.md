@@ -2,7 +2,7 @@
 This document was last updated on September 3, 2018
 
 <ol>
-  <li>Acknowledgement and Acceptance of Terms
+  <li><h2>Acknowledgement and Acceptance of Terms</h2>
 <p>We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Policy.</p></li>
 
 <li>Participating Merchant Policies
