@@ -1,4 +1,4 @@
-##<h1>Privacy Policy</h1>
+<h1>Privacy Policy</h1>
 This document was last updated on May 29, 2014
 1. Acknowledgement and Acceptance of Terms
 We are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing this website, you acknowledge and fully understand our Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Policy.
